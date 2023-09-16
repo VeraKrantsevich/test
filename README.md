@@ -1,2 +1,2 @@
-# Hello, world!пше 
+# Hello, world!
 Новая ветка
